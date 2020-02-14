@@ -340,7 +340,7 @@ $ ls
 > The `echo` command simply prints out a text you specify. Try it out: `echo "Library Carpentry is awesome!"`.
 > Interesting, isn't it?
 >
-> You can also specify a variable, for instance `NAME=` followed by your name.
+> You can also specify a variable. First type `NAME=` followed by your name.
 > Then type `echo "$NAME is a fantastic library carpentry student"`. What happens?
 >
 > You can combine both text and normal shell commands using `echo`, for example the
